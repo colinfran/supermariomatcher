@@ -1,0 +1,16 @@
+﻿Build started 12/16/2015 12:16:22 PM.
+     1>Project "C:\Users\Colin\Documents\GitHub\supermariomatcher\supermariomatcher\supermariomatcher.vcxproj" on node 2 (Build target(s)).
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\resources.res" ..\resources.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Colin\Documents\GitHub\supermariomatcher\Debug\supermariomatcher.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Colin\Documents\GitHub\supermariomatcher\Debug\supermariomatcher.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Colin\Documents\GitHub\supermariomatcher\Debug\supermariomatcher.lib" /MACHINE:X86 Debug\resources.res
+         Debug\Dictionary.obj
+         Debug\Game.obj
+         Debug\GameApp.obj
+         Debug\GameWin.obj
+         supermariomatcher.vcxproj -> C:\Users\Colin\Documents\GitHub\supermariomatcher\Debug\supermariomatcher.exe
+     1>Done Building Project "C:\Users\Colin\Documents\GitHub\supermariomatcher\supermariomatcher\supermariomatcher.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.69

@@ -1,0 +1,56 @@
+// File: resources.rc
+// Author: Colin Franceschini 
+// Project: CS215 Project 3 Fall 2015
+// Description of file contents: The content in this file are all the images and sounds used in the game.
+
+MARIOTHEME_WAV WAVE mariotheme.wav
+
+HEREWEGO_WAV WAVE herewego.wav
+
+MAMMAMIA_WAV WAVE mammamia.wav
+
+GAMEOVER_WAV WAVE gameover.wav
+
+ITSMEMARIO_WAV WAVE itsmemario.wav
+
+BOWERSER_BMP BITMAP bowser.bmp
+
+LUIGI_BMP BITMAP luigi.bmp
+
+TOAD_BMP BITMAP toad.bmp
+
+MARIO_BMP BITMAP mario.bmp
+
+YOSHI_BMP BITMAP yoshi.bmp
+
+GOOMBA_BMP BITMAP goomba.bmp
+
+BOO_BMP BITMAP boo.bmp
+
+MUSHROOM_BMP BITMAP mushroom.bmp
+
+PEACH_BMP BITMAP peach.bmp
+
+KOOPA_BMP BITMAP koopa.bmp
+
+BULLETBILL_BMP BITMAP bulletbill.bmp
+
+WALUIGI_BMP BITMAP waluigi.bmp
+
+BOBOMB_BMP BITMAP bobomb.bmp
+
+FLYTRAP_BMP BITMAP flytrap.bmp
+
+STAR_BMP BITMAP star.bmp
+
+WARIO_BMP BITMAP wario.bmp
+
+CHOMP_BMP BITMAP chomp.bmp
+
+LAKITU_BMP BITMAP lakitu.bmp
+
+SHYGUY_BMP BITMAP shyguy.bmp
+
+MARIOBACK_BMP BITMAP marioback.bmp
+
+LOGO_BMP BITMAP logo.bmp
