@@ -13,3 +13,7 @@ Scoring algorithm: Each pair of matched characters count as 10 points. User want
 End game condition: The game ends after 30 seconds.
 
 What doesn't work: Highscore not saved --> need to create algorithm to save highscore even after game is closed.
+
+<p align="center">
+  <img alt="image" src="https://github.com/colinfran/supermariomatcher/blob/master/franceschiniP3.bmp"/>
+</p>
